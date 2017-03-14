@@ -29,4 +29,5 @@ pod 'Firebase/Storage'	Storage
 > pod install < hit Return
 
 
+
 From now on you should only use .xcworkspace file for the project
